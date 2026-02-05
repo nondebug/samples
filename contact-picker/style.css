@@ -53,23 +53,16 @@ ul.success {
 ul.error {
   color: red;
 }
-/*
-     FILE ARCHIVED ON 12:12:16 Sep 13, 2019 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:43:25 Aug 25, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.878
-  exclusion.robots: 0.128
-  exclusion.robots.policy: 0.019
-  esindex: 0.022
-  cdx.remote: 101.414
-  LoadShardBlock: 372.704 (3)
-  PetaboxLoader3.datanode: 305.675 (4)
-  load_resource: 582.791
-  PetaboxLoader3.resolve: 437.958
-*/
+.contact-icon {
+  max-width: 48px;
+  max-height: 48px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin: 5px 0;
+}
+li {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
